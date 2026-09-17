@@ -1,2 +1,1 @@
-# IoT-Based-Anti-Theft-System-for-Luggage
-IoT-based anti-theft system for luggage using ESP32-S3, LTE/GNSS, Wi-Fi RSSI and SMS alerts.
+[LucutFabritia_ThesisProject.pdf](https://github.com/user-attachments/files/32345076/LucutFabritia_ThesisProject.pdf)
